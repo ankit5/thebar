@@ -1,5 +1,5 @@
 <?php
-$base_url = "/vt/";
+$base_url = "/";
 define( 'INCLUDE_DIR', dirname( __FILE__ ) . '/pages/' );
 
 $rules = array( 
